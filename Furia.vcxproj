@@ -124,6 +124,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="source\core.hpp" />
+    <ClInclude Include="source\integrators.hpp" />
+    <ClInclude Include="source\particle.hpp" />
     <ClInclude Include="source\precision.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

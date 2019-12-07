@@ -21,5 +21,11 @@
     <ClInclude Include="source\precision.hpp">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="source\particle.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\integrators.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
